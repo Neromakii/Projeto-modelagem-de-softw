@@ -5,11 +5,11 @@ Modelagem de software orientado a objetos
 
 Integrantes:
 
-Nathan Vespasiano Fonseca
+**Nathan Vespasiano Fonseca**
 
-Felipe Da Rocha Pinheiro
+**Felipe Da Rocha Pinheiro**
 
-Fernando Domingues
+**Fernando Domingues**
 
 
 
