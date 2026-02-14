@@ -10,3 +10,15 @@ Nathan Vespasiano Fonseca
 Felipe Da Rocha Pinheiro
 
 Fernando Domingues
+
+
+
+
+
+Este projeto apresenta a modelagem de um sistema de Cinema utilizando os conceitos de Orientação a Objetos. O objetivo é representar, de forma clara e organizada, as funcionalidades do sistema e as interações entre 
+usuários e processos, como cadastro e compra de ingressos.
+
+A seguir, serão apresentados os casos de uso do nosso cinema junto com os nossos atores:
+
+
+![Diagrama de Caso de Uso1](1diagrama.jpeg)
