@@ -46,8 +46,9 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 ![Diagrama de Caso de Uso6](FluxosSecundarios1.jpeg)
 
-
 ![Diagrama de Caso de Uso7](FluxosSecundarios2.jpeg)
 
+**Diagrama de Classes**
 
+![Diagrama de Classes](DiagramaDeClasses.jpeg)
 
