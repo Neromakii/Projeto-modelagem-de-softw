@@ -20,26 +20,8 @@ usuários e processos, como cadastro e compra de ingressos.
 
 A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto com os nossos atores:
 
-**Compra Fisica**
-
-![Diagrama de Caso de Uso1](1diagrama.jpeg)
-
-![Diagrama de Caso de Uso1](CasoDeUsoCompraFis.jpeg)
-
-
-**Compra Online**
-
-![Diagrama de Caso de Uso2](2diagrama.jpeg)
-
-![Diagrama de Caso de Uso2](CasoDeUsoCompraOn.jpeg)
-
-**Cadastro de filmes e Gerador de Relatórios**
-
-![Diagrama de Caso de Uso3](3diagrama.jpeg)
-
-![Diagrama de Caso de Uso4](CasoDeUsoCadastroFil.jpeg)
-
-![Diagrama de Caso de Uso5](CasoDeUsoGerarRelator.jpeg)
+**Casos De Uso**
+![Diagrama_Caso_De_Uso](Diagrama_Casos_De_Uso.png)
 
 
 **E então os fluxos secundarios caso aconteça imprevistos nos fluxos principais**
