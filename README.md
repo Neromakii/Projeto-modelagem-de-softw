@@ -21,7 +21,6 @@ usuários e processos, como cadastro e compra de ingressos.
 A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto com os nossos atores:
 
 **Casos De Uso**
-![Diagrama_Caso_De_Uso](Diagrama_Casos_De_Uso.png)
 
 
 **E então os fluxos secundarios caso aconteça imprevistos nos fluxos principais**
