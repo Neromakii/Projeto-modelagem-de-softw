@@ -24,6 +24,14 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 ![Diagrama CasoDeUso](_Diagrama_CasoDeUso.png)
 
+![Diagrama CasoDeUso1](1diagrama.jpeg)
+
+![Diagrama CasoDeUso2](2diagrama.jpeg)
+
+![Diagrama CasoDeUso3](3diagrama.jpeg)
+
+
+
 **E então os fluxos secundarios caso aconteça imprevistos nos fluxos principais**
 
 ![Diagrama de Caso de Uso6](FluxosSecundarios1.jpeg)
