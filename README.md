@@ -22,7 +22,7 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 **Casos De Uso**
 
-![Diagrama CasoDeUso](_Diagrama_CasoDeUso.png)
+![Diagrama CasoDeUso](image.png)
 
 ![Diagrama CasoDeUso1](1diagrama.jpeg)
 
