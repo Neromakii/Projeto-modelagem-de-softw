@@ -26,9 +26,7 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 ![Diagrama CasoDeUso1](image2.png)
 
-![Diagrama CasoDeUso2](2diagrama.jpeg)
 
-![Diagrama CasoDeUso3](3diagrama.jpeg)
 
 
 
