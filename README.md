@@ -32,5 +32,5 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 **Diagrama de Classes**
 
-![Diagrama de Classes](DiagramaDeClasses.jpeg)
+![Diagrama de Classes](Diagrama_de_Classes_att.jpeg)
 
