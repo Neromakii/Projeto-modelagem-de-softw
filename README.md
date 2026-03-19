@@ -46,7 +46,7 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 * **Disponibilizar Filmes - Administrar Relatórios**
 
-![Diagrama Sequencia](Diag_Seq_03.png)
+![Diagrama Sequencia](Diag_Seq_03_01.png)
 
 * **Gerenciar Sessões - Gerar Relatório**
 
