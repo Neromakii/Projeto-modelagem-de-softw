@@ -50,7 +50,7 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 * **Gerenciar Sessões - Gerar Relatório**
 
-![Diagrama Sequencia](Diag_Seq_04.png)
+![Diagrama Sequencia](Diag_Seq_04_01.png)
 
 
 
