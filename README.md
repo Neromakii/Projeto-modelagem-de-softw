@@ -34,3 +34,16 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 ![Diagrama de Classes](Diagrama_de_Classes_att.jpeg)
 
+
+**Diagrama de Sequência**
+
+![Diagrama Sequencia](Diag_Seq_01.png)
+
+![Diagrama Sequencia](Diag_Seq_02.png)
+
+![Diagrama Sequencia](Diag_Seq_03.png)
+
+![Diagrama Sequencia](Diag_Seq_04.png)
+
+
+
