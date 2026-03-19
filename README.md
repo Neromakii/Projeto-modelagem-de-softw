@@ -37,18 +37,18 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 **Diagrama de Sequência**
 
-* ** Seleção - Verifica Fidelidade **
+* **Seleção - Verifica Fidelidade**
 ![Diagrama Sequencia](Diag_Seq_01.png)
 
-* ** Reconhecimento de perfil - Pagamento Ingresso **
+* **Reconhecimento de perfil - Pagamento Ingresso**
 
 ![Diagrama Sequencia](Diag_Seq_02.png)
 
-* ** Disponibilizar Filmes - Administrar Relatórios **
+* **Disponibilizar Filmes - Administrar Relatórios**
 
 ![Diagrama Sequencia](Diag_Seq_03.png)
 
-* ** Gerenciar Sessões - Gerar Relatório **
+* **Gerenciar Sessões - Gerar Relatório**
 
 ![Diagrama Sequencia](Diag_Seq_04.png)
 
