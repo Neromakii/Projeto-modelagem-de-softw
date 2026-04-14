@@ -52,5 +52,12 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 ![Diagrama Sequencia](Diag_Seq_04_01.png)
 
+**Diagrama de Estados**
 
+![Diagrama de Estados](DiagramaDeEstados1.jpeg)
 
+![Diagrama de Estados](DiagramaDeEstados2.jpeg)
+
+![Diagrama de Estados](DiagramaDeEstados3.jpeg)
+
+![Diagrama de Estados](DiagramaDeEstados4.jpeg)
