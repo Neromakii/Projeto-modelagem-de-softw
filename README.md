@@ -63,5 +63,9 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 ![Diagrama de Estados](DiagramaDeEstados4.jpeg)
 
 
-**Diagrama de Atividades**
+* **Diagrama de Atividades - Compra ingresso**
 ![Diagrama De_Atividades](Diagrama_de_atividades.png)
+
+* **Diagrama de Atividades - Relatório Administração**
+![Diagrama De_Atividades2](Diagrama_de_atividades2.png)
+
