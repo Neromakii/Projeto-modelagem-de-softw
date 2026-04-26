@@ -64,4 +64,4 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 
 
 **Diagrama de Atividades**
-![Diagrama De_Atividades](Diagrama_De_atividades.png)
+![Diagrama De_Atividades](Diagrama_de_atividades.png)
