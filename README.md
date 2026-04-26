@@ -61,3 +61,7 @@ A seguir, serão apresentados os casos de uso e diagramas do nosso cinema junto 
 ![Diagrama de Estados](DiagramaDeEstados3.jpeg)
 
 ![Diagrama de Estados](DiagramaDeEstados4.jpeg)
+
+
+**Diagrama de Atividades**
+![Diagrama De_Atividades](Diagrama_De_atividades.png)
